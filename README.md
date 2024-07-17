@@ -42,7 +42,9 @@ To run this project locally, follow these steps:
         ```sh
         python app.py
         ```
-
+4. **Tools and Technologies:**
+    Python, Pandas, Scikit-learn, TensorFlow, Keras, and tkinter
+   
 ## Contributing
 
 Contributions are welcome! Please follow these steps to contribute:
@@ -61,10 +63,6 @@ Contributions are welcome! Please follow these steps to contribute:
     git push origin feature/your-feature
     ```
 5. Open a pull request.
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgements
 
